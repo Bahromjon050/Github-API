@@ -1,0 +1,31 @@
+
+
+
+.github{
+  text-align: center;
+}
+.inputSearch{
+  width: 300px;
+  background: cyan;
+  font-size: 30px;
+  padding: 10px 30px;
+  color: red;
+}
+
+.cards{
+  gap: 30px;
+  display: grid;
+  grid-template-columns: repeat(4,auto);
+}
+.card{
+  width: 100%;
+}
+.resetBtn{
+  color: red;
+  font-size: 25px;
+  background: none;
+  border: none;
+  position: absolute;
+  right: 517px;
+  top: 14px;
+}
